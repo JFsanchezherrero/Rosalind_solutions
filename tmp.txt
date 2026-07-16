@@ -1,0 +1,93 @@
+| FIB | Rabbits and Recurrence Relations | [Lesson](https://rosalind.info/problems/fib/) | |
+| GC | Computing GC Content | [Lesson](https://rosalind.info/problems/gc/) | |
+| HAMM | Counting Point Mutations | [Lesson](https://rosalind.info/problems/hamm/) |  |
+| IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) |  |
+| PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | |
+| SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  |
+| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) |  |
+| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.info/problems/perm/) |  |
+| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | |
+| GRPH | Overlap Graphs | [Lesson](https://rosalind.info/problems/grph/) |  |
+| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.info/problems/iev/) |  |
+| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.info/problems/lcsm/) | |
+| LIA | Independent Alleles | [Lesson](https://rosalind.info/problems/lia/) |  |
+| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.info/problems/mprt/) | |
+| MRNA | Inferring mRNA from Protein | [Lesson](https://rosalind.info/problems/mrna/) |  |
+| ORF | Open Reading Frames | [Lesson](https://rosalind.info/problems/orf/) |  |
+| PRTM | Calculating Protein Mass | [Lesson](https://rosalind.info/problems/prtm/) |  |
+| REVP | Locating Restriction Sites | [Lesson](https://rosalind.info/problems/revp/) |  |
+| SPLC | RNA Splicing | [Lesson](https://rosalind.info/problems/splc/) |  |
+| LEXF | Enumerating k-mers Lexicographically | [Lesson](https://rosalind.info/problems/lexf/) |  |
+| LGIS | Longest Increasing Subsequence | [Lesson](https://rosalind.info/problems/lgis/) |  |
+| LONG | Genome Assembly as Shortest Superstring | [Lesson](https://rosalind.info/problems/long/) |  |
+| PMCH | Perfect Matchings and RNA Secondary Structures | [Lesson](https://rosalind.info/problems/pmch/) |  |
+| PPER | Partial Permutations | [Lesson](https://rosalind.info/problems/pper/) |  |
+| PROB | Introduction to Random Strings | [Lesson](https://rosalind.info/problems/prob/) |  |
+| SIGN | Enumerating Oriented Gene Orderings | [Lesson](https://rosalind.info/problems/sign/) |  |
+| SSEQ | Finding a Spliced Motif | [Lesson](https://rosalind.info/problems/sseq/) |  |
+| TRAN | Transitions and Transversions | [Lesson](https://rosalind.info/problems/tran/) |  |
+| TREE | Completing a Tree | [Lesson](https://rosalind.info/problems/tree/) |  |
+| CAT | Catalan Numbers and RNA Secondary Structures | [Lesson](https://rosalind.info/problems/cat/) |  |
+| CORR | Error Correction in Reads | [Lesson](https://rosalind.info/problems/corr/) |  |
+| INOD | Counting Phylogenetic Ancestors | [Lesson](https://rosalind.info/problems/inod/) |  |
+| KMER | k-Mer Composition | [Lesson](https://rosalind.info/problems/kmer/) |  |
+| KMP | Speeding Up Motif Finding | [Lesson](https://rosalind.info/problems/kmp/) |  |
+| LCSQ | Finding a Shared Spliced Motif | [Lesson](https://rosalind.info/problems/lcsq/) |  |
+| LEXV | Ordering Strings of Varying Length Lexicographically | [Lesson](https://rosalind.info/problems/lexv/) |  |
+| MMCH | Maximum Matchings and RNA Secondary Structures | [Lesson](https://rosalind.info/problems/mmch/) |  |
+| ORFR | Open Reading Frames (with Reverse Complements) | [Lesson](https://rosalind.info/problems/orfr/) |  |
+| PDST | Creating a Distance Matrix | [Lesson](https://rosalind.info/problems/pdst/) |  |
+| RSTR | Matching Random Motifs | [Lesson](https://rosalind.info/problems/rstr/) |  |
+| SSET | Counting Subsets | [Lesson](https://rosalind.info/problems/sset/) |  |
+| ASPC | Introduction to Alternative Splicing | [Lesson](https://rosalind.info/problems/aspc/) |  |
+| EDIT | Edit Distance | [Lesson](https://rosalind.info/problems/edit/) |  |
+| EVAL | Expected Number of Restriction Sites | [Lesson](https://rosalind.info/problems/eval/) |  |
+| MOTZ | Motzkin Numbers and RNA Secondary Structures | [Lesson](https://rosalind.info/problems/motz/) |  |
+| NWCK | Distances in Trees | [Lesson](https://rosalind.info/problems/nwck/) |  |
+| SCSP | Interleaving Two Motifs | [Lesson](https://rosalind.info/problems/scsp/) |  |
+| SEQS | Alignment-Based Phylogeny | [Lesson](https://rosalind.info/problems/seqs/) |  |
+| SORT | Sorting by Reversals | [Lesson](https://rosalind.info/problems/sort/) |  |
+| SPEC | Inferring Protein from Spectrum | [Lesson](https://rosalind.info/problems/spec/) |  |
+| TRIE | Introduction to Pattern Matching | [Lesson](https://rosalind.info/problems/trie/) |  |
+| CONV | Comparing Spectra with the Spectral Convolution | [Lesson](https://rosalind.info/problems/conv/) |  |
+| FULL | Inferring Peptide from Full Spectrum | [Lesson](https://rosalind.info/problems/full/) |  |
+| NKEW | Newick Format with Edge Weights | [Lesson](https://rosalind.info/problems/nkew/) |  |
+| PRSM | Matching a Spectrum to a Protein | [Lesson](https://rosalind.info/problems/prsm/) |  |
+| SMGB | Global Multiple Alignment | [Lesson](https://rosalind.info/problems/smgb/) |  |
+| KSIM | Finding All Similar Motifs | [Lesson](https://rosalind.info/problems/ksim/) |  |
+| RNAS | Wobble Bonding and RNA Secondary Structures | [Lesson](https://rosalind.info/problems/rnas/) |  |
+| PDPL | Creating a Restriction Map | [Lesson](https://rosalind.info/problems/pdpl/) |  |
+| MREP | Identifying Maximal Repeats | [Lesson](https://rosalind.info/problems/mrep/) |  |
+| GLOB | Global Alignment with Scoring Matrix | [Lesson](https://rosalind.info/problems/glob/) |  |
+| LREP | Finding the Longest Multiple Repeat | [Lesson](https://rosalind.info/problems/lrep/) |  |
+| SIMS | Finding a Motif with Modifications | [Lesson](https://rosalind.info/problems/sims/) |  |
+| CTEA | Counting Optimal Alignments | [Lesson](https://rosalind.info/problems/ctea/) |  |
+| CSET | Fixing an Inconsistent Character Set | [Lesson](https://rosalind.info/problems/cset/) |  |
+| LAFF | Local Alignment with Affine Gap Penalty | [Lesson](https://rosalind.info/problems/laff/) |  |
+| MEND | Inferring Genotype from a Pedigree | [Lesson](https://rosalind.info/problems/mend/) |  |
+| MGAP | Maximizing the Gap Symbols of an Optimal Alignment | [Lesson](https://rosalind.info/problems/mgap/) |  |
+| MULT | Multiple Alignment | [Lesson](https://rosalind.info/problems/mult/) |  |
+| ITWV | Finding Disjoint Motifs in a Gene | [Lesson](https://rosalind.info/problems/itwv/) |  |
+| PDBF | Protein Database | [Lesson](https://rosalind.info/problems/pdbf/) |  |
+| QRT | Quartets | [Lesson](https://rosalind.info/problems/qrt/) |  |
+| SUFF | Inferring Peptide from Spectrum Graph | [Lesson](https://rosalind.info/problems/suff/) |  |
+| CHBP | Character-Based Phylogeny | [Lesson](https://rosalind.info/problems/chbp/) |  |
+| CNTQ | Counting Quartets | [Lesson](https://rosalind.info/problems/cntq/) |  |
+| EUBT | Enumerating Unrooted Binary Trees | [Lesson](https://rosalind.info/problems/eubt/) |  |
+| GASM | Genome Assembly Using Reads | [Lesson](https://rosalind.info/problems/gasm/) |  |
+| GCON | Global Alignment with Constant Gap Penalty | [Lesson](https://rosalind.info/problems/gcon/) |  |
+| LING | Linguistic Complexity of a Genome | [Lesson](https://rosalind.info/problems/ling/) |  |
+| LOCA | Local Alignment with Scoring Matrix | [Lesson](https://rosalind.info/problems/loca/) |  |
+| MBLG | Maximum Balanced Subgraph | [Lesson](https://rosalind.info/problems/mblg/) |  |
+| ARMT | Armchair Theorist | [Lesson](https://rosalind.info/problems/armt/) |  |
+| FOUN | The Founder Effect and Genetic Drift | [Lesson](https://rosalind.info/problems/foun/) |  |
+| IND | Independent Segregation of Chromosomes | [Lesson](https://rosalind.info/problems/ind/) |  |
+| QRTD | Quartet Distance | [Lesson](https://rosalind.info/problems/qrtd/) |  |
+| SPTD | Phylogeny Comparison with Split Distance | [Lesson](https://rosalind.info/problems/sptd/) |  |
+| AFBD | Affine Burstiness Distance | [Lesson](https://rosalind.info/problems/afbd/) |  |
+| DBRU | Constructing a De Bruijn Graph | [Lesson](https://rosalind.info/problems/dbru/) |  |
+
+
+
+
+
