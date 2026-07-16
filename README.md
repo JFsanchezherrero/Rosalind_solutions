@@ -1,4 +1,4 @@
-# Rosalind_solutions
+# Rosalind Python problem solutions
 
 <img src="https://rosalind.info/static/img/logo.png?raw=True" align="right"/>
 
