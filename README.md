@@ -24,9 +24,9 @@ The Stronghold.ipynb file is available here.
 
 | ID | Title | Original Lesson | My Solution |
 |---------------|---------------|--------------------------|------------------|
-| DNA | Counting DNA Nucleotides | [Lesson](https://rosalind.info/problems/dna/) | [Solution](Problems/Stronghold/code/tmp.txt)|
-| RNA | Transcribing DNA into RNA | [Lesson](https://rosalind.info/problems/rna/) | |
-| REVC | Complementing a Strand of DNA | [Lesson](https://rosalind.info/problems/revc/) | |
+| DNA | Counting DNA Nucleotides | [Lesson](https://rosalind.info/problems/dna/) | [Solution](Problems/Stronghold/code/count_nuc.py)|
+| RNA | Transcribing DNA into RNA | [Lesson](https://rosalind.info/problems/rna/) | [Solution](Problems/Stronghold/code/transcribe_nuc.py)|
+| REVC | Complementing a Strand of DNA | [Lesson](https://rosalind.info/problems/revc/[Solution](Problems/Stronghold/code/rev_com.py)) | |
 
 
 ## 🛠️ Setup
