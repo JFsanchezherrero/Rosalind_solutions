@@ -1,7 +1,5 @@
-| FIB | Rabbits and Recurrence Relations | [Lesson](https://rosalind.info/problems/fib/) | |
 | GC | Computing GC Content | [Lesson](https://rosalind.info/problems/gc/) | |
 | HAMM | Counting Point Mutations | [Lesson](https://rosalind.info/problems/hamm/) |  |
-| IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) |  |
 | PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | |
 | SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  |
 | FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) |  |
