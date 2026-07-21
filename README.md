@@ -26,9 +26,9 @@ The Stronghold.ipynb file is available here.
 |---------------|---------------|--------------------------|------------------|
 | DNA | Counting DNA Nucleotides | [Lesson](https://rosalind.info/problems/dna/) | [Solution](Problems/Stronghold/code/count_nuc.py)|
 | RNA | Transcribing DNA into RNA | [Lesson](https://rosalind.info/problems/rna/) | [Solution](Problems/Stronghold/code/transcribe_nuc.py)|
-| REVC | Complementing a Strand of DNA | [Lesson](https://rosalind.info/problems/revc/ | [Solution](Problems/Stronghold/code/rev_com.py)) |
-| FIB | Rabbits and Recurrence Relations | [Lesson](https://rosalind.info/problems/fib/) | [Solution](Problems/Stronghold/code/rabbit_count.py)) |
-| IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) | [Solution](Problems/Stronghold/code/mend_iprb.py)) |
+| REVC | Complementing a Strand of DNA | [Lesson](https://rosalind.info/problems/revc/) | [Solution](Problems/Stronghold/code/rev_com.py) |
+| FIB | Rabbits and Recurrence Relations | [Lesson](https://rosalind.info/problems/fib/) | [Solution](Problems/Stronghold/code/rabbit_count.py) |
+| IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) | [Solution](Problems/Stronghold/code/mend_iprb.py) |
 
 
 ## 🛠️ Setup
