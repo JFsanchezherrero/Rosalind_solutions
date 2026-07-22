@@ -29,6 +29,9 @@ The Stronghold.ipynb file is available here.
 | REVC | Complementing a Strand of DNA | [Lesson](https://rosalind.info/problems/revc/) | [Solution](Problems/Stronghold/code/rev_com.py) |
 | FIB | Rabbits and Recurrence Relations | [Lesson](https://rosalind.info/problems/fib/) | [Solution](Problems/Stronghold/code/rabbit_count.py) |
 | IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) | [Solution](Problems/Stronghold/code/mend_iprb.py) |
+| GC | Computing GC Content | [Lesson](https://rosalind.info/problems/gc/) | [Solution](Problems/Stronghold/code/gc_count.py) |
+| PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | [Solution](Problems/Stronghold/code/rna2prot.py) |
+
 
 
 ## 🛠️ Setup

@@ -1,6 +1,4 @@
-| GC | Computing GC Content | [Lesson](https://rosalind.info/problems/gc/) | |
 | HAMM | Counting Point Mutations | [Lesson](https://rosalind.info/problems/hamm/) |  |
-| PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | |
 | SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  |
 | FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) |  |
 | PERM | Enumerating Gene Orders | [Lesson](https://rosalind.info/problems/perm/) |  |
