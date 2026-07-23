@@ -18,9 +18,23 @@ Solutions to problems here are available either as Interactive Python Notebooks 
 
 See additional details in my Rosalind [**Profile**](https://rosalind.info/users/jfsanchezherrero/)
 
+### Python Village
+
+The Python village interactive python notebook file is available [here](Problems/Village/python_village.ipynb).
+
+| ID | Title | Original Lesson | My Solution |
+|---------------|---------------|--------------------------|------------------|
+| INI1 | Install and configure python | [Lesson](https://rosalind.info/problems/ini1/) | [Solution]() |
+| INI2 | Variables and Arithmetics | [Lesson](https://rosalind.info/problems/ini2/) | [Solution](Problems/Village/code/init2.py) |
+| INI3 | Strings and Lists | [Lesson](https://rosalind.info/problems/ini3/) | [Solution](Problems/Village/code/init3.py) |
+| INI4 | Conditions and loops | [Lesson](https://rosalind.info/problems/ini4/) | [Solution](Problems/Village/code/init4.py) |
+| INI5 | Working with files | [Lesson](https://rosalind.info/problems/ini5/) | [Solution](Problems/Village/code/init5.py) |
+| INI6 | Dictionaries | [Lesson](https://rosalind.info/problems/ini6/) | [Solution](Problems/Village/code/init6.py) |
+
+
 ### Bioinformatics Stronghold
 
-The Stronghold.ipynb file is available here.
+The Stronghold interactive python notebook file is available [here](Problems/Stronghold/stronghold_solutions.ipynb).
 
 | ID | Title | Original Lesson | My Solution |
 |---------------|---------------|--------------------------|------------------|
@@ -31,6 +45,8 @@ The Stronghold.ipynb file is available here.
 | IPRB | Mendel's First Law | [Lesson](https://rosalind.info/problems/iprb/) | [Solution](Problems/Stronghold/code/mend_iprb.py) |
 | GC | Computing GC Content | [Lesson](https://rosalind.info/problems/gc/) | [Solution](Problems/Stronghold/code/gc_count.py) |
 | PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | [Solution](Problems/Stronghold/code/rna2prot.py) |
+| HAMM | Counting Point Mutations | [Lesson](https://rosalind.info/problems/hamm/) | [Solution](Problems/Stronghold/code/hm_dist.py) |
+| SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  [Solution](Problems/Stronghold/code/subs_string.py)|
 
 
 
