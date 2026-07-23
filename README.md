@@ -49,6 +49,15 @@ The Stronghold interactive python notebook file is available [here](Problems/Str
 | SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  [Solution](Problems/Stronghold/code/subs_string.py)|
 
 
+### Bioinformatics Armory
+
+The Bioinfo Armory interactive python notebook file is available [here](Problems/Armory/bioinf_armory.ipynb).
+
+| ID | Title | Original Lesson | My Solution |
+|---------------|---------------|--------------------------|------------------|
+| INI | Counting DNA Nucleotides | [Lesson](https://rosalind.info/problems/ini/) | [Solution](Problems/Armory/code/count_nuc.py)|
+| GBK | Genbank introduction | [Lesson](https://rosalind.info/problems/gbk/) | [Solution](Problems/Armory/code/genbanck_search.py)|
+
 
 ## 🛠️ Setup
 
