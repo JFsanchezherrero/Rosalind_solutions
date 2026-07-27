@@ -1,6 +1,10 @@
 from Bio import SeqIO
 import sys
 
+from progress.spinner import Spinner
+
+spinner = Spinner('Working...')
+    
 ##################################################
 ## get sequences
 ##################################################
@@ -16,42 +20,45 @@ with open(sys.argv[1]) as handle:
 shortest_seq_id = min(len_seq, key=lambda k: len_seq[k])
 shortest_seq = dict_seq[shortest_seq_id]
 
-##################################################
-# Generate all substrings using list comprehension
-##################################################
-substrings_all = [shortest_seq[i:j] for i in range(len(shortest_seq)) for j in range(i+1, len(shortest_seq)+1)]
-## return only longer or equal to 2
-substrings = [s for s in substrings_all if len(s) > 1]
-## sort from longest-shortest
-substrings = sorted(substrings, key=len)[::-1]
+from collections import defaultdict
+dict_motif = defaultdict(int)
 
+min_lentgh_motif = 100
 
-##################################################
-## get all matches for all sequences
-##################################################
 ## get remaining sequences to index
 seqs2test =  list(dict_seq.keys() - [shortest_seq_id])
-## get sequences to test
-sub_substrings = {}
-for s2test in seqs2test:
-    list_tmp = []
-    for s in substrings:
-        #print("sub")
-        #print(s)
-        if (dict_seq[s2test].find(s)>0):
-            list_tmp.append(s)
 
-    sub_substrings[s2test]=list_tmp
+## apply parallel threads
+for i in range(len(shortest_seq)):
 
+    ## let the spinner sping
+    spinner.next()
 
-## count, sort and arrange
-from collections import Counter
-counter = Counter(item for values in sub_substrings.values() for item in set(values))
-print(counter)
-common = [item for item, count in counter.items() if count >= 2]
-common_longest = sorted(common, key=len)[::-1]
+    for j in range(i+1, len(shortest_seq)+1):
+        substrings_str = shortest_seq[i:j]
+        ## debug
+        #print(substrings_str)
+        #print(len(substrings_str))
+        if (len(substrings_str) < min_lentgh_motif):
+            #print("Very small")
+            continue
+        
+        ## debug
+        #print("i - j:" + str(i) + " - " + str(j))
+        #print(substrings_str)
+               
+        ## get all matches for all sequences
+        for s2test in seqs2test:
+            #print(s2test)
+            if (dict_seq[s2test].find(substrings_str)>0):
+                dict_motif[substrings_str] += 1
 
-##################################################
-## Print output
-##################################################
-print(common_longest)
+print("\n+ Done")
+
+## filter motifs found in all sequences
+dict_motif_all = {k: v for k, v in dict_motif.items() if v==99}
+
+## get longest
+res = max(dict_motif_all.keys(), key=lambda k: len(k))
+print("+ Longest motif is:")
+print(res)
