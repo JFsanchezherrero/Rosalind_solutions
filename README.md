@@ -47,6 +47,12 @@ The Stronghold interactive python notebook file is available [here](Problems/Str
 | PROT | Translating RNA into Protein | [Lesson](https://rosalind.info/problems/prot/) | [Solution](Problems/Stronghold/code/rna2prot.py) |
 | HAMM | Counting Point Mutations | [Lesson](https://rosalind.info/problems/hamm/) | [Solution](Problems/Stronghold/code/hm_dist.py) |
 | SUBS | Finding a Motif in DNA | [Lesson](https://rosalind.info/problems/subs/) |  [Solution](Problems/Stronghold/code/subs_string.py)|
+| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.info/problems/perm/) | [Solution](Problems/Stronghold/code/perm.py ) |
+| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | [Solution](Problems/Stronghold/code/cons.py)|
+| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.info/problems/mprt/) | [Solution](Problems/Stronghold/code/mprt.py)|
+| REVP | Locating Restriction Sites | [Lesson](https://rosalind.info/problems/revp/) | [Solution](Problems/Stronghold/code/revp.py) |
+| SPLC | RNA Splicing | [Lesson](https://rosalind.info/problems/splc/) | [Solution](Problems/Stronghold/code/splc.py) |
+| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.info/problems/lcsm/) |  [Solution](Problems/Stronghold/code/lscm.py)|
 
 
 ### Bioinformatics Armory
