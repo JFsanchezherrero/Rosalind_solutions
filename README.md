@@ -54,6 +54,7 @@ The Stronghold interactive python notebook file is available [here](Problems/Str
 | SPLC | RNA Splicing | [Lesson](https://rosalind.info/problems/splc/) | [Solution](Problems/Stronghold/code/splc.py) |
 | LCSM | Finding a Shared Motif | [Lesson](https://rosalind.info/problems/lcsm/) |  [Solution](Problems/Stronghold/code/lscm.py)|
 | GRPH | Overlap Graphs | [Lesson](https://rosalind.info/problems/grph/) | [Solution](Problems/Stronghold/code/grph.py) |
+| PRTM | Calculating Protein Mass | [Lesson](https://rosalind.info/problems/prtm/) |  [Solution](Problems/Stronghold/code/prtm.py) |
 
 
 ### Bioinformatics Armory

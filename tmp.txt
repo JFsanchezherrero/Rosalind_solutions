@@ -3,7 +3,6 @@
 | LIA | Independent Alleles | [Lesson](https://rosalind.info/problems/lia/) |  |
 | MRNA | Inferring mRNA from Protein | [Lesson](https://rosalind.info/problems/mrna/) |  |
 | ORF | Open Reading Frames | [Lesson](https://rosalind.info/problems/orf/) |  |
-| PRTM | Calculating Protein Mass | [Lesson](https://rosalind.info/problems/prtm/) |  |
 | LEXF | Enumerating k-mers Lexicographically | [Lesson](https://rosalind.info/problems/lexf/) |  |
 | LGIS | Longest Increasing Subsequence | [Lesson](https://rosalind.info/problems/lgis/) |  |
 | LONG | Genome Assembly as Shortest Superstring | [Lesson](https://rosalind.info/problems/long/) |  |
