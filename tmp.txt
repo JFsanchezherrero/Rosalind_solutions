@@ -1,16 +1,9 @@
 | FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) |  |
-| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.info/problems/perm/) |  |
-| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | |
-| GRPH | Overlap Graphs | [Lesson](https://rosalind.info/problems/grph/) |  |
 | IEV | Calculating Expected Offspring | [Lesson](https://rosalind.info/problems/iev/) |  |
-| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.info/problems/lcsm/) | |
 | LIA | Independent Alleles | [Lesson](https://rosalind.info/problems/lia/) |  |
-| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.info/problems/mprt/) | |
 | MRNA | Inferring mRNA from Protein | [Lesson](https://rosalind.info/problems/mrna/) |  |
 | ORF | Open Reading Frames | [Lesson](https://rosalind.info/problems/orf/) |  |
 | PRTM | Calculating Protein Mass | [Lesson](https://rosalind.info/problems/prtm/) |  |
-| REVP | Locating Restriction Sites | [Lesson](https://rosalind.info/problems/revp/) |  |
-| SPLC | RNA Splicing | [Lesson](https://rosalind.info/problems/splc/) |  |
 | LEXF | Enumerating k-mers Lexicographically | [Lesson](https://rosalind.info/problems/lexf/) |  |
 | LGIS | Longest Increasing Subsequence | [Lesson](https://rosalind.info/problems/lgis/) |  |
 | LONG | Genome Assembly as Shortest Superstring | [Lesson](https://rosalind.info/problems/long/) |  |
