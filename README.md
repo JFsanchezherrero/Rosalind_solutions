@@ -55,6 +55,10 @@ The Stronghold interactive python notebook file is available [here](Problems/Str
 | LCSM | Finding a Shared Motif | [Lesson](https://rosalind.info/problems/lcsm/) |  [Solution](Problems/Stronghold/code/lscm.py)|
 | GRPH | Overlap Graphs | [Lesson](https://rosalind.info/problems/grph/) | [Solution](Problems/Stronghold/code/grph.py) |
 | PRTM | Calculating Protein Mass | [Lesson](https://rosalind.info/problems/prtm/) |  [Solution](Problems/Stronghold/code/prtm.py) |
+| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) |  [Solution](Problems/Stronghold/code/fibd.py) |
+| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.info/problems/iev/) |  [Solution](Problems/Stronghold/code/iev.py) |
+| MRNA | Inferring mRNA from Protein | [Lesson](https://rosalind.info/problems/mrna/) |  [Solution](Problems/Stronghold/code/mrna.py) |
+| ORF | Open Reading Frames | [Lesson](https://rosalind.info/problems/orf/) |  [Solution](Problems/Stronghold/code/orf.py) |
 
 
 ### Bioinformatics Armory
