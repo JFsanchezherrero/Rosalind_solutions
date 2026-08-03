@@ -6,7 +6,10 @@ This repository contains my solutions to some Rosalind problems using Python.
 
 [**Rosalind**](https://rosalind.info/about/) is a platform for learning bioinformatics and programming through problem solving. I use Rosalind for some lessons and I feel students like it too. In here, I will be solving problems myself.
 
-Visit also additional information such a python course available [here](https://github.com/JFsanchezherrero/Python_course)
+Visit also additional related information that I have created and developed such as:
+
+- python course available [here](https://github.com/JFsanchezherrero/Python_course)
+- python package available [here](https://github.com/JFsanchezherrero/useful_Python_package)
 
 ## 📋 About
 
