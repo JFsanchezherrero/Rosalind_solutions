@@ -10,6 +10,7 @@ Visit also additional related information that I have created and developed such
 
 - python course available [here](https://github.com/JFsanchezherrero/Python_course)
 - python package available [here](https://github.com/JFsanchezherrero/useful_Python_package)
+- python tutorial on data visualization [here](https://github.com/JFsanchezherrero/Data_visualization)
 
 ## 📋 About
 
